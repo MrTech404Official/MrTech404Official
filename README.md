@@ -1,3 +1,2 @@
-Hello My name is Tech404
-Intrested in API's
-Using Python
+Hello My name is Tech404 and
+I use Python and Qbasic
